@@ -1,6 +1,9 @@
+#include <Wire.h>
+
 void setup() {
   // put your setup code here, to run once:
   pinMode(1, OUTPUT);
+  Wire.begin();
 }
 
 void loop() {
