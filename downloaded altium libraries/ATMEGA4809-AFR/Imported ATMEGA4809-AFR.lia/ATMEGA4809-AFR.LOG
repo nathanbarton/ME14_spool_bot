@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ATMEGA4809-AFR.LibPkg
+
+Section : C:\Users\Nathan Barton\Documents\ME14_spool_bot\downloaded altium libraries\ATMEGA4809-AFR\ATMEGA4809-AFR.lia
+    Section : PCB Library - ATMEGA4809-AFR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ATMEGA4809-AFR On Line 187
+            Warning - 1 : Skipping Token attachedSymbol On Line 694
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ATMEGA4809-AFR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 145
+            Warning - 1 : Skipping Token layerContents On Line 154
+            Warning - 1 : Skipping Token layerContents On Line 163
+        EndSection
+
+        Section : Generating SCH Library - ATMEGA4809-AFR.SchLib
+        EndSection
+    EndSection
+EndSection
