@@ -2,14 +2,12 @@
 
 #include <Wire.h>
 
-#define BLINKPIN  2
+#define BLINKPIN  A0
 
 int count = 0;
 
 void setup() {
   // put your setup code here, to run once:
-
-  CCP = 0xD8;
   
   pinMode(BLINKPIN, OUTPUT);
   Serial1.begin(9600);
@@ -18,11 +16,11 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  //Serial1.println(count);
-  //count++;
+  Serial1.println(count);
+  count++;
   digitalWrite(BLINKPIN,HIGH);
-  delay(1);
+  delay(1000);
   digitalWrite(BLINKPIN,LOW);
-  delay(1);
+  delay(1000);
   
 }
