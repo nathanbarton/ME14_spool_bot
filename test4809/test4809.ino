@@ -1,16 +1,28 @@
+ #include <avr/io.h>
+
 #include <Wire.h>
+
+#define BLINKPIN  2
+
+int count = 0;
 
 void setup() {
   // put your setup code here, to run once:
-  pinMode(1, OUTPUT);
+
+  CCP = 0xD8;
+  
+  pinMode(BLINKPIN, OUTPUT);
+  Serial1.begin(9600);
   Wire.begin();
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
-  digitalWrite(1,HIGH);
-  delay(1000);
-  digitalWrite(1,LOW);
-  delay(1000);
+  //Serial1.println(count);
+  //count++;
+  digitalWrite(BLINKPIN,HIGH);
+  delay(1);
+  digitalWrite(BLINKPIN,LOW);
+  delay(1);
   
 }
