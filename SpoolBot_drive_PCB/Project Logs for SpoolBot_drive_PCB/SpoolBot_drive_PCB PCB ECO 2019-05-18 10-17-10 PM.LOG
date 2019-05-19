@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PHASE Pin=U1-5
+Removed Pin From Net: NetName=ENC_A Pin=U1-18
+Added Pin To Net: NetName=ENC_A Pin=U1-5
+Added Pin To Net: NetName=PHASE Pin=U1-18
