@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for SpoolBot_drive_PCB
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -191,115 +191,71 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.1
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GML
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for SpoolBot_drive_PCB\SpoolBot_drive_PCB.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -349,7 +305,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for SpoolBot_drive_PCB
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
