@@ -1,26 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [SpoolBot_drive_PCB.PrjPcb]
-   Generated File[SpoolBot_drive_PCB.GTO]
-   Generated File[SpoolBot_drive_PCB.GTP]
-   Generated File[SpoolBot_drive_PCB.GTS]
-   Generated File[SpoolBot_drive_PCB.GTL]
-   Generated File[SpoolBot_drive_PCB.GBL]
-   Generated File[SpoolBot_drive_PCB.GBS]
-   Generated File[SpoolBot_drive_PCB.GBP]
-   Generated File[SpoolBot_drive_PCB.GBO]
-   Generated File[SpoolBot_drive_PCB.GM1]
-   Generated File[SpoolBot_drive_PCB.GM2]
-   Generated File[SpoolBot_drive_PCB.GM16]
-   Generated File[SpoolBot_drive_PCB.GKO]
-   Generated File[SpoolBot_drive_PCB.GPT]
-   Generated File[SpoolBot_drive_PCB.GPB]
-   Generated File[SpoolBot_drive_PCB.RUL]
-   Generated File[SpoolBot_drive_PCB.EXTREP]
-   Generated File[SpoolBot_drive_PCB.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SpoolBot_drive_PCB.PrjPcb]
+   Generated File[SpoolBot_drive_PCB.TXT]
+   Generated File[SpoolBot_drive_PCB.LDP]
+   Generated File[SpoolBot_drive_PCB.DRR]
 
 
-Files Generated   : 17
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 6:01:37 PM On 2019-05-19
+Finished Output Generation At 6:19:00 PM On 2019-05-19
